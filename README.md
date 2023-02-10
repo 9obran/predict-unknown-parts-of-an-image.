@@ -5,9 +5,10 @@ The project leverages Convolutional Neural Networks (CNNs) to complete the missi
 
 The project includes the following stages:
 
-Data Preparation
-Building and Training the Neural Network
-Model Evaluation
-Applying the Model to Predict Missing Pixels in New Images.
+1- Data Preparation
+2- Building and Training the Neural Network
+3- Model Evaluation
+4- Applying the Model to Predict Missing Pixels in New Images.
+
 The code is written in Python and powered by the TensorFlow library. The project features clear explanations and comments to make it accessible for those new to the field.
 

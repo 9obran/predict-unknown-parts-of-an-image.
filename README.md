@@ -6,7 +6,6 @@ The project leverages Convolutional Neural Networks (CNNs) to complete the missi
 The project includes the following stages:
 
 1- Data Preparation
-
 2- Building and Training the Neural Network
 
 3- Model Evaluation
